@@ -1,1 +1,4 @@
-[项目Wiki][https://github.com/jack-bai666/electromagnetism-car.wiki.git](https://github.com/jack-bai666/electromagnetism-car/wiki)
+# 简介
+代码已经完成了几个月了，最近刚弄懂如何使用 github，将之前的代码传了上来。 代码的完成使用了逐飞的开源库，感谢逐飞科技。
+本项目旨在使用 Keil 软件配合 STC32 微控制器，开发一款能够实现电磁循迹功能的智能小车。通过对电磁信号的检测与处理，使小车能够在铺设电磁感应线的赛道上自动行驶，完成循迹任务。
+详情可见[项目Wiki](https://github.com/jack-bai666/electromagnetism-car.wiki.git)
